@@ -1,0 +1,54 @@
+Mono path[0] = 'C:/Users/User/Documents/SpaceShooter/Builds/Space Shooter_Data/Managed'
+Mono path[1] = 'C:/Users/User/Documents/SpaceShooter/Builds/Space Shooter_Data/Mono'
+Mono config path = 'C:/Users/User/Documents/SpaceShooter/Builds/Space Shooter_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/User/Documents/SpaceShooter/Builds/Space Shooter_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55062
+Multi-casting "[IP] 10.142.177.241 [Port] 55062 [Flags] 3 [Guid] 2394205490 [EditorId] 3716391279 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-MINFHAM) [Debug] 0" to [225.0.0.222:54997]...
+Waiting for connection from host on [0.0.0.0:55062]...
+Timed out. Continuing without host connection.
+Started listening to [0.0.0.0:55062]
+PlayerConnection already initialized - listening to [0.0.0.0:55062]
+Player data archive not found at `C:/Users/User/Documents/SpaceShooter/Builds/Space Shooter_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.3p1 (9c92e827232b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon R5 M335 (ID=0x6660)
+    Vendor:   ATI
+    VRAM:     3072 MB
+    Driver:   15.201.1101.0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\User\Documents\SpaceShooter\Builds\Space Shooter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\User\Documents\SpaceShooter\Builds\Space Shooter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\SpaceShooter\Builds\Space Shooter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\User\Documents\SpaceShooter\Builds\Space Shooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\SpaceShooter\Builds\Space Shooter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\User\Documents\SpaceShooter\Builds\Space Shooter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\SpaceShooter\Builds\Space Shooter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\User\Documents\SpaceShooter\Builds\Space Shooter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.289 seconds
+Platform assembly: C:\Users\User\Documents\SpaceShooter\Builds\Space Shooter_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\User\Documents\SpaceShooter\Builds\Space Shooter_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.067259 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 222c -> priority: 1 
+  Thread -> id: 142c -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.842666 ms
+System memory in use before: 54.7 MB.
+System memory in use after: 54.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 409.
+Total: 0.748641 ms (FindLiveObjects: 0.048197 ms CreateObjectMapping: 0.064000 ms MarkObjects: 0.616296 ms  DeleteObjects: 0.017777 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.875061 ms
+System memory in use before: 54.7 MB.
+System memory in use after: 54.7 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 409.
+Total: 0.798024 ms (FindLiveObjects: 0.049777 ms CreateObjectMapping: 0.054123 ms MarkObjects: 0.669629 ms  DeleteObjects: 0.022518 ms)
+
