@@ -5,6 +5,9 @@ A Unity-based space shooter game developed with Unity 5.6.3p1 for Android platfo
 ## Overview
 Space Shooter is an action-packed arcade-style game where players control a spacecraft, dodge asteroids, battle enemy ships, and try to achieve the highest score possible. The game features dynamic backgrounds, various enemy types, and power-ups to enhance gameplay.
 
+![image](https://github.com/user-attachments/assets/90245eb8-e1bf-464b-92be-90b730e2cd6a)
+
+
 ## Project Structure
 The project contains two main implementations:
 - **Main Implementation**: Found in the `Assets/Scripts` folder
